@@ -15,7 +15,7 @@ A simple community app made with React and Express.
   <li>Create a new request for your specific task (form autofills personal info using the backend)</li>
   <li>Change your personal details</li>
   <li>Track the status of your current requests</li>
-  <li>Mark task as compelted once it is done</li>
+  <li>Mark task as completed once it is done</li>
   
 </ul>
 
